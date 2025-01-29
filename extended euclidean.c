@@ -71,8 +71,8 @@ Second integer (m): 3
 Results:
 GCD(57, 3) = 3
 Modular inverse does not exist as 57 and 3 are not coprime.
- */
-/* sample output-2
+
+sample output-2
 Enter two positive integers:
 First integer (a): 19
 Second integer (m): 5
